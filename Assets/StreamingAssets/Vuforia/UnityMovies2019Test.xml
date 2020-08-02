@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="parasite" size="0.200000 0.300000" />
+    <ImageTarget name="star_wars" size="0.200000 0.300000" />
+    <ImageTarget name="Ad_Astra" size="0.200000 0.300000" />
+    <ImageTarget name="double_world" size="0.200000 0.300000" />
+    <ImageTarget name="Avengers" size="0.200000 0.300000" />
+    <ImageTarget name="joker" size="0.200000 0.300000" />
+    <ImageTarget name="Coma" size="0.200000 0.300000" />
+  </Tracking>
+</QCARConfig>
